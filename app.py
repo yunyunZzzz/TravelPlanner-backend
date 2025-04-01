@@ -7,8 +7,8 @@ import random
 import json
 import time
 import os
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 
 
