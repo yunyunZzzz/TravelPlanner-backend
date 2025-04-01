@@ -1,0 +1,1 @@
+export const API_BASE = "https://travelplanner-g7b5.onrender.com";
